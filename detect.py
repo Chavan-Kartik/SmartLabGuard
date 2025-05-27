@@ -4,7 +4,7 @@ import cv2
 model = YOLO("yolov8n.pt")  
 
 required_classes = ["keyboard", "mouse", "monitor"]
-required_counts = {"keyboard": 2, "mouse": 2}
+required_counts = {"keyboard": 5, "mouse": 5}
 
 cap = cv2.VideoCapture(0)
 
