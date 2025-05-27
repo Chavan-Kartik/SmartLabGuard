@@ -6,7 +6,7 @@ Basic idea behind the project is to implement this in a Computer Based Lab where
 
 If there happens a theft or an object is missing, It will be shown in the screen.
 
-Currently 5 keyboard and 5 mice are alloted in the required area, you can change the number of objects in the code "detect.py" as per your requirement.
+Currently 5 keyboard and 5 mice are alloted in the required area, you can change the number of objects in the code "detect_lab_equipment.py" as per your requirement.
 
 ## Requirements
 - Python 3.8+
